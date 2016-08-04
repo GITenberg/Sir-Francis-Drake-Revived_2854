@@ -1,0 +1,24 @@
+_repo: Sir-Francis-Drake-Revived_2854
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Nichols, Philip, active 1562
+    gutenberg_agent_id: '1054'
+    url: http://www.gutenberg.org/2009/agents/1054
+description: ''
+gutenberg_issued: '2006-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2854'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'West Indies -- Discovery and exploration -- Early works to 1800'
+- !lcc 'E011'
+- !lcsh 'Drake, Francis, approximately 1540-1596 -- Travel -- West Indies'
+- !lcsh 'America -- Discovery and exploration -- British -- Early works to 1800'
+- GITenberg
+title: Sir Francis Drake Revived
+url: http://www.gutenberg.org/ebooks/2854
