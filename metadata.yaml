@@ -1,11 +1,16 @@
 _repo: Sir-Francis-Drake-Revived_2854
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Nichols, Philip, active 1562
     gutenberg_agent_id: '1054'
     url: http://www.gutenberg.org/2009/agents/1054
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2854#Sir-Francis-Drake-Revived
 gutenberg_issued: '2006-03-31'
 gutenberg_type: Text
 identifiers:
